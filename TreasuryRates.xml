@@ -2,12 +2,12 @@
 <feed xml:base="http://data.treasury.gov/Feed.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">DailyTreasuryYieldCurveRateData</title>
   <id>http://data.treasury.gov/feed.svc/DailyTreasuryYieldCurveRateData</id>
-  <updated>2019-07-08T00:25:23Z</updated>
+  <updated>2019-07-08T00:36:22Z</updated>
   <link rel="self" title="DailyTreasuryYieldCurveRateData" href="DailyTreasuryYieldCurveRateData" />
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7258)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -36,7 +36,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7259)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -65,7 +65,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7260)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -94,7 +94,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7261)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -123,7 +123,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7262)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -152,7 +152,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7263)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -181,7 +181,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7264)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -210,7 +210,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7265)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -239,7 +239,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7266)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -268,7 +268,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7267)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -297,7 +297,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7268)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -326,7 +326,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7269)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -355,7 +355,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7270)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -384,7 +384,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7271)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -413,7 +413,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7272)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -442,7 +442,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7273)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -471,7 +471,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7274)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -500,7 +500,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7275)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -529,7 +529,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7276)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -558,7 +558,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7277)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -587,7 +587,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7278)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -616,7 +616,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7279)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -645,7 +645,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7280)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -674,7 +674,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7281)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -703,7 +703,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7282)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -732,7 +732,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7283)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -761,7 +761,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7284)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -790,7 +790,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7285)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -819,7 +819,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7286)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -848,7 +848,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7287)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -877,7 +877,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7288)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -906,7 +906,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7289)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -935,7 +935,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7290)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -964,7 +964,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7291)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -993,7 +993,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7292)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1022,7 +1022,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7293)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1051,7 +1051,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7294)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1080,7 +1080,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7295)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1109,7 +1109,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7296)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1138,7 +1138,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7297)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1167,7 +1167,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7298)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1196,7 +1196,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7299)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1225,7 +1225,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7300)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1254,7 +1254,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7301)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1283,7 +1283,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7302)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1312,7 +1312,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7303)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1341,7 +1341,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7304)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1370,7 +1370,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7305)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1399,7 +1399,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7306)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1428,7 +1428,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7307)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1457,7 +1457,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7308)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1486,7 +1486,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7309)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1515,7 +1515,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7310)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1544,7 +1544,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7311)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1573,7 +1573,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7312)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1602,7 +1602,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7313)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1631,7 +1631,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7314)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1660,7 +1660,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7315)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1689,7 +1689,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7316)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1718,7 +1718,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7317)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1747,7 +1747,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7318)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1776,7 +1776,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7319)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1805,7 +1805,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7320)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1834,7 +1834,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7321)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1863,7 +1863,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7322)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1892,7 +1892,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7323)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1921,7 +1921,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7324)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1950,7 +1950,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7325)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -1979,7 +1979,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7326)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2008,7 +2008,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7327)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2037,7 +2037,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7328)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2066,7 +2066,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7329)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2095,7 +2095,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7330)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2124,7 +2124,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7331)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2153,7 +2153,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7332)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2182,7 +2182,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7333)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2211,7 +2211,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7334)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2240,7 +2240,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7335)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2269,7 +2269,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7336)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2298,7 +2298,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7337)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2327,7 +2327,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7338)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2356,7 +2356,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7339)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2385,7 +2385,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7340)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2414,7 +2414,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7341)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2443,7 +2443,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7342)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2472,7 +2472,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7343)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2501,7 +2501,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7344)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2530,7 +2530,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7345)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2559,7 +2559,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7346)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2588,7 +2588,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7347)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2617,7 +2617,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7348)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2646,7 +2646,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7349)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2675,7 +2675,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7350)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2704,7 +2704,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7351)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2733,7 +2733,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7352)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2762,7 +2762,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7353)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2791,7 +2791,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7354)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2820,7 +2820,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7355)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2849,7 +2849,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7356)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2878,7 +2878,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7357)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2907,7 +2907,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7358)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2936,7 +2936,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7359)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2965,7 +2965,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7360)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -2994,7 +2994,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7361)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3023,7 +3023,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7362)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3052,7 +3052,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7363)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3081,7 +3081,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7364)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3110,7 +3110,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7365)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3139,7 +3139,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7366)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3168,7 +3168,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7367)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3197,7 +3197,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7368)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3226,7 +3226,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7369)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3255,7 +3255,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7370)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3284,7 +3284,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7371)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3313,7 +3313,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7372)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3342,7 +3342,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7373)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3371,7 +3371,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7374)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3400,7 +3400,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7375)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3429,7 +3429,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7376)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3458,7 +3458,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7377)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3487,7 +3487,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7378)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3516,7 +3516,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7379)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3545,7 +3545,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7380)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3574,7 +3574,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7381)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3603,7 +3603,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7382)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3632,7 +3632,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7383)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3661,7 +3661,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7384)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>
@@ -3690,7 +3690,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7385)</id>
     <title type="text"></title>
-    <updated>2019-07-08T00:25:23Z</updated>
+    <updated>2019-07-08T00:36:22Z</updated>
     <author>
       <name />
     </author>

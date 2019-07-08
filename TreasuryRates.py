@@ -1,6 +1,5 @@
 import csv
 import requests
-import xml.dom.minidom
 import xml.etree.ElementTree as ET
 
 def loadPage():
@@ -12,10 +11,10 @@ def loadPage():
     resp = requests.get(url)
 
     # save the XMl file
-    with open('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/XMLTreasuryRates.xml', 'wb') as f:
+    with open('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/TreasuryRates.xml', 'wb') as f:
         f.write(resp.content)
 
-loadPage()
+
 def parseXML(xmlFile):
 
     # create element tree object
@@ -24,6 +23,7 @@ def parseXML(xmlFile):
     # get root element
     root = tree.getroot()
 
+    # Dictionary object of important tags in the Treasury Rates XML file
     tags = {'NEW_DATE': '{http://schemas.microsoft.com/ado/2007/08/dataservices}NEW_DATE',
             '1MONTH': '{http://schemas.microsoft.com/ado/2007/08/dataservices}BC_1MONTH',
             '2MONTH': '{http://schemas.microsoft.com/ado/2007/08/dataservices}BC_2MONTH',
@@ -46,8 +46,12 @@ def parseXML(xmlFile):
     #
     # for child in root.iter():
     #     print(child.text)
-    for child in root.iter(tags['NEW_DATE']):
-        print(child.text)
+    # for key in tags:
+    #     for child in root.iter(tags[key]):
+    #         print(key, child.text)
+    for key in tags.keys():
+        for child in root.iter(tags[key]):
+            print(key, child.text)
 
-#
-parseXML('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/XMLTreasuryRates.xml')
+
+parseXML('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/TreasuryRates.xml')
