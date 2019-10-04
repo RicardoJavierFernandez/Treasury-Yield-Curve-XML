@@ -2,7 +2,7 @@ import csv
 import requests
 import xml.etree.ElementTree as ET
 
-def loadPage():
+def load_page():
 
     # url of Treasury XML page
     url = 'https://data.treasury.gov/feed.svc/DailyTreasuryYieldCurveRateData?$filter=year(NEW_DATE)%20eq%202019'
@@ -15,8 +15,10 @@ def loadPage():
         f.write(resp.content)
 
 
-def parseXML(xmlFile):
+def parse_XML(xmlFile):
 
+    load_page()
+    
     # create element tree object
     tree = ET.parse(xmlFile)
 
@@ -49,9 +51,22 @@ def parseXML(xmlFile):
     # for key in tags:
     #     for child in root.iter(tags[key]):
     #         print(key, child.text)
-    for key in tags.keys():
-        for child in root.iter(tags[key]):
-            print(key, child.text)
+##    for key in tags.keys():
+##        for child in root.iter(tags[key]):
+##            print(key, child.text)
+
+    # Create two dictionaries to store 1. The dates, and 2. The tenor's rates
+    date = {}
+    ten_year = {}
+
+    for date_id, date_string in enumerate(root.iter('{http://schemas.microsoft.com/ado/2007/08/dataservices}NEW_DATE')):
+        date[date_id] = date_string.text
+
+    for date_id, date_string in enumerate(root.iter('{http://schemas.microsoft.com/ado/2007/08/dataservices}BC_10YEAR')):
+        ten_year[date_id] = date_string.text
+
+    for key in date.keys():
+        print(date[key], ten_year[key])
 
 
-parseXML('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/TreasuryRates.xml')
+parse_XML('/Users/ricky/Documents/Python/Treasury-Yield-Curve-XML/TreasuryRates.xml')
